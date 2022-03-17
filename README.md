@@ -4,8 +4,10 @@ This repository contains my Implementation for the paper [EDA: Easy Data Augment
 
 I have reimplemented the 4 Data Augmentation Techniques Described in the Paper and tested it on the SST2 dataset acquired from [here](https://github.com/clairett/pytorch-sentiment-classification/tree/master/data/SST2)
 
-I've also discussed the paper [here](https://www.youtube.com/watch?v=-pLhrjjSa28)
+p.s. I have also discussed and gone through the paper [here](https://www.youtube.com/watch?v=-pLhrjjSa28)
 
-How can you run this?
+FAQs- 
 
-Just open the .ipynb file, click on run on colab, set runtime to GPU (for speedy training) and run all cells (everything else is already handled)
+*Q- How can I run this?*
+
+A - Just open the .ipynb file, click on run on colab, set runtime to GPU (for speedy training) and run all cells (everything else is already handled)
