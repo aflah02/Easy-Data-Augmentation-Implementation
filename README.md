@@ -8,6 +8,6 @@ p.s. I have also discussed and gone through the paper [here](https://www.youtube
 
 FAQs- 
 
-*Q- How can I run this?*
+**Q- How can I run this?**
 
 A - Just open the .ipynb file, click on the "open in colab" button location at the start of the notebook, set runtime to GPU (for speedy training) and run all cells (everything else is already handled)
